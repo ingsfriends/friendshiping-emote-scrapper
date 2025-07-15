@@ -68,6 +68,11 @@ if __name__ == "__main__":
         # https://ogqmarket.naver.com/artworks/sticker/detail?artworkId=627c80ea90e91
         "ogq_627c80ea90e91",
         
+        # 민킈티콘2
+        # https://cafe.naver.com/ingsfriends/150845
+        # https://ogqmarket.naver.com/artworks/sticker/detail?artworkId=638712a37abec
+        "ogq_638712a37abec",
+
         # 세모의 둥근 일상
         # https://cafe.naver.com/ingsfriends/117386
         # https://ogqmarket.naver.com/artworks/sticker/detail?artworkId=62ddacd1b2878
